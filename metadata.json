@@ -1,0 +1,5 @@
+{
+  "name": "Análisis de Ventas",
+  "description": "Una aplicación web moderna e interactiva para analizar datos de ventas de archivos Excel y CSV, con KPIs dinámicos, gráficos y filtros.",
+  "requestFramePermissions": []
+}
